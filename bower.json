@@ -1,0 +1,12 @@
+{
+  "name": "meteorserver",
+  "version": "1.0.0",
+  "main": "src/public_html/meteor.js",
+  "ignore": [
+    "tests",
+    "src/Meteor",
+    "build"
+  ],
+   "dependencies": {},
+   "devDependencies": {}
+}
